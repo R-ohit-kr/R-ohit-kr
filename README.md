@@ -101,9 +101,9 @@ I’m strengthening my foundations in **data analysis, SQL, Python, data visuali
 
 I’m open to learning, thoughtful collaboration, and entry-level opportunities in data analytics. The links below are placeholders until I add verified contact details:
 
-- **LinkedIn:** [Add LinkedIn profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/rohit-kumar-65419a369/
 - **Portfolio:** [Add portfolio URL]
-- **Email:** [Add professional email address]
+- **Email:** rohitkr104232gmail.com
 
 ---
 
