@@ -1,25 +1,21 @@
 <div align="center">
 
-<a href="https://github.com/R-ohit-kr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:102D46,100:12B8A6&text=ROHIT%20%20%7C%20%20DATA%20INSIGHTS&fontColor=EAF7FF&fontSize=34&fontAlignY=38&desc=Turning%20data%20into%20clearer%20decisions&descAlignY=59&descSize=16&animation=fadeIn" alt="Rohit — Data insights" width="100%" />
-</a>
+<img src="assets/hero-editorial.svg" alt="Rohit — Data insights, seen from a different angle" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=61E6D0&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Curious+about+the+story+behind+the+numbers;Building+practical%2C+decision-ready+analytics" alt="Typing animation: Data Analyst, aspiring Data Scientist" /></a>
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-R--ohit--kr-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/R-ohit-kr)
-[![Profile views](https://komarev.com/ghpvc/?username=R-ohit-kr&style=flat-square&color=12B8A6&label=PROFILE+VIEWS)](https://github.com/R-ohit-kr)
+[![GitHub](https://img.shields.io/badge/GitHub-R--ohit--kr-382337?style=flat-square&logo=github&logoColor=FFF4E8)](https://github.com/R-ohit-kr)
+[![Profile views](https://komarev.com/ghpvc/?username=R-ohit-kr&style=flat-square&color=E66E59&label=PROFILE+VIEWS)](https://github.com/R-ohit-kr)
 
 </div>
 
----
+## Data analyst · aspiring data scientist
 
-## Data Analyst · Aspiring Data Scientist
-
-I’m **Rohit**, building my path in data analytics and data science. I’m interested in making complex information easier to understand—through thoughtful analysis, clear visualizations, and practical answers to real-world questions.
+I’m **Rohit**, building my path in data analytics and data science. I’m interested in making complex information easier to understand—through thoughtful analysis, clear visualizations, and practical storytelling.
 
 > **My approach:** ask a better question → explore the evidence → communicate the insight.
+
+---
+
+<img src="assets/about-lime.svg" alt="About Rohit: curious questions, careful analysis, clear communication" width="100%" />
 
 ## About
 
@@ -28,54 +24,78 @@ I’m **Rohit**, building my path in data analytics and data science. I’m inte
 - **What I value:** careful problem framing, reproducible work, and communicating findings clearly
 - **Currently learning:** Python-based analysis, SQL, and machine-learning fundamentals
 
+---
+
+<img src="assets/toolkit-tangerine.svg" alt="Illustrated data toolkit: Python, SQL, Excel, Power BI, pandas, NumPy, and machine learning" width="100%" />
+
 ## Analytics toolkit
 
 *Tools and areas I’m building with; this is a learning-focused toolkit, not a claim of certification or mastery.*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1B2432?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-1B2432?style=for-the-badge&logo=postgresql&logoColor=7AB8FF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-1B2432?style=for-the-badge&logo=microsoftexcel&logoColor=21A366" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-1B2432?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-1B2432?style=for-the-badge&logo=pandas&logoColor=E6D9FF" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-1B2432?style=for-the-badge&logo=numpy&logoColor=6CA9FF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1B2432?style=for-the-badge&logo=scikitlearn&logoColor=F5A45D" alt="Machine Learning" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-263C3A?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-263C3A?style=for-the-badge&logo=postgresql&logoColor=FF9A70" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-263C3A?style=for-the-badge&logo=microsoftexcel&logoColor=9ED8B2" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-263C3A?style=for-the-badge&logo=powerbi&logoColor=F6D365" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-263C3A?style=for-the-badge&logo=pandas&logoColor=D5B7E8" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-263C3A?style=for-the-badge&logo=numpy&logoColor=9CCBFF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-263C3A?style=for-the-badge&logo=scikitlearn&logoColor=FF9A70" alt="Machine Learning" />
 </p>
+
+---
+
+<img src="assets/work-cobalt.svg" alt="Selected work: a visual research board for questions, data, and discoveries" width="100%" />
 
 ## Selected work
 
-I haven’t published analytics projects on this profile yet. I’m developing a portfolio that demonstrates the full workflow—from asking a useful question and preparing data to analysis, visualization, and communicating recommendations.
+I haven’t published analytics projects on this profile yet. I’m developing a portfolio that demonstrates the full workflow—from asking a useful question and preparing data to analysis, visualization, and communicating a clear outcome.
 
 **Explore my repositories:** [github.com/R-ohit-kr](https://github.com/R-ohit-kr)
 
 *As projects are published, this section will highlight the question, methods, tools, and outcome for each one.*
+
+---
+
+<img src="assets/activity-burgundy.svg" alt="GitHub activity, interpreted as a colorful data visualization" width="100%" />
 
 ## GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/R-ohit-kr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R-ohit-kr&show_icons=true&hide_border=true&bg_color=0B1220&title_color=61E6D0&text_color=D7E3F0&icon_color=61E6D0&rank_icon=github&include_all_commits=true" alt="Rohit's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R-ohit-kr&show_icons=true&hide_border=true&bg_color=FFF4E8&title_color=7B3045&text_color=49343B&icon_color=319B78&rank_icon=github" alt="Rohit's GitHub statistics" />
 </a>
 <a href="https://github.com/R-ohit-kr">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=R-ohit-kr&hide_border=true&background=0B1220&ring=61E6D0&fire=F5A45D&currStreakLabel=61E6D0&sideLabels=D7E3F0&currStreakNum=EAF7FF&sideNums=EAF7FF&dates=8293A8" alt="Rohit's GitHub contribution streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=R-ohit-kr&hide_border=true&background=FFF4E8&ring=319B78&fire=E66E59&currStreakLabel=7B3045&sideLabels=49343B&currStreakNum=7B3045&sideNums=319B78" alt="Rohit's GitHub contribution streak" />
 </a>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-ohit-kr&bg_color=0B1220&color=D7E3F0&line=12B8A6&point=61E6D0&area=true&hide_border=true" alt="Rohit's GitHub contribution activity graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-ohit-kr&bg_color=FFF4E8&color=49343B&line=319B78&point=E66E59&area=true&hide_border=true" alt="Rohit's GitHub contribution activity graph" />
 
 </div>
 
 *Stats and activity are generated from GitHub and may take a little time to update.*
 
+---
+
+<img src="assets/credentials-coral.svg" alt="Milestones and credentials: room to celebrate future achievements" width="100%" />
+
 ## Certifications & achievements
 
 I haven’t listed certifications or formal achievements here because none have been shared for verification. This section will be updated as I earn and document relevant credentials and milestones.
 
+---
+
+<img src="assets/learning-teal.svg" alt="Learning direction: a path from questions to insight and applied data science" width="100%" />
+
 ## Learning & direction
 
-I’m strengthening my foundations in **data analysis, SQL, Python, data visualization, and applied machine learning**. My goal is to build useful, well-documented projects that connect sound analysis to decisions—and to grow into a data professional who can contribute on international, collaborative teams.
+I’m strengthening my foundations in **data analysis, SQL, Python, data visualization, and applied machine learning**. My goal is to build useful, well-documented projects that connect sound analysis with clear communication.
+
+---
+
+<img src="assets/connect-orange.svg" alt="Connect: a warm invitation to learn, collaborate, and share ideas" width="100%" />
 
 ## Connect
 
